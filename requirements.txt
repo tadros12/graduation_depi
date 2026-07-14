@@ -1,0 +1,16 @@
+# Core deep learning & data
+torch
+torchvision
+numpy
+scikit-learn
+rasterio
+matplotlib
+
+# Deployment — FastAPI server
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+
+# Visualization
+plotly

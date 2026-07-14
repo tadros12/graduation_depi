@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SentinelVision
+Comment=Launch SentinelVision Land Cover Classification Web GUI
+Exec=/run/media/theodoros/E/projects/dataflow__analyizer/depi_project/run_app.sh
+Terminal=true
+Icon=image-viewer
+Path=/run/media/theodoros/E/projects/dataflow__analyizer/depi_project
+Categories=Science;Education;

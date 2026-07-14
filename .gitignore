@@ -32,3 +32,14 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# LaTeX temporary files
+reports/*.aux
+reports/*.log
+reports/*.out
+reports/*.toc
+reports/*.synctex.gz
+reports/missfont.log
+reports/*.nav
+reports/*.snm
+reports/*.vrb
